@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\dataacceslayer\\multishopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\dataacceslayer\\multishopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|c:\\users\\99455\\source\\repos\\multishopapplication\\multishopapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3B5B3-E077-4DA1-974B-E2C4D392B42A}|MultiShopApplication\\MultiShopApplication.csproj|solutionrelative:multishopapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T19:11:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MultiShopApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T19:09:52.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShopApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:04:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MultiShopApplication\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T17:42:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "MultiShopApplication\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T17:40:53.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "MultiShopApplication\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:29:23.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeToolTip": "MultiShopApplication\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:27:58.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeToolTip": "MultiShopApplication\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:27:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240512172517_CreatedSlidersTable.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs",
+              "RelativeToolTip": "MultiShopApplication\\Migrations\\20240512172517_CreatedSlidersTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:25:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\DataAccesLayer\\MultiShopDbContext.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\DataAccesLayer\\MultiShopDbContext.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\DataAccesLayer\\MultiShopDbContext.cs",
+              "RelativeToolTip": "MultiShopApplication\\DataAccesLayer\\MultiShopDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:23:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MultiShopApplication\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:22:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "MultiShopApplication\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MultiShopApplication\\MultiShopApplication\\Models\\Slider.cs",
+              "RelativeToolTip": "MultiShopApplication\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:21:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

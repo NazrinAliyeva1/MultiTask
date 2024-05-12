@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model CreateSliderVM
+<form method ="post">
+  <div class="mb-3">
+    <label>Title</label>
+    <input type="text" class="form-control" name="Title">
+    <span asp-validation-for="Title" class="text-danger"></span>
+  </div>
+  <div class="mb-3">
+    <label>Subtitle</label>
+    <input type="text" class="form-control" name="Subtitle">
+    <span asp-validation-for="Subtitle" class="text-danger"></span>
+  </div>
+  <div class="mb-3">
+    <label>ImageUrl</label>
+    <input type="text" class="form-control" name="ImageUrl">
+    <span asp-validation-for="ImgUrl" class="text-danger"></span>
+  </div>
+  <div class="mb-3">
+    <label>Discount</label>
+    <input type="number" class="form-control" name="Discount">
+    <span asp-validation-for="Discount" class="text-danger"></span>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
